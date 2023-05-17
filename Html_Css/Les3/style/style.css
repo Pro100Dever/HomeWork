@@ -1,0 +1,17 @@
+#main h2{
+    color: green;
+}
+
+#products h2{
+    color: blue;
+}
+
+.info{
+    background-color: blueviolet;
+    color: white;
+}
+#main, #products{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+}

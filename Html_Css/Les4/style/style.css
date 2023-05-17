@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    height: 1000px;
+}
+
+div{
+    border: 2px solid black;
+}
+
+.absolute{
+    width: 500px;
+    height: 500px;
+}
+
+.absolute{
+    width: 50%;
+    height: 50%;
+}
